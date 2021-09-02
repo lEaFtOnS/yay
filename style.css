@@ -1,0 +1,26 @@
+.heading{
+    width:100%;
+    margin-top:0px ;
+    font-size: 35px;
+    box-shadow: 10px 10px 18px grey;
+}
+.sub_heading{
+    font-size: 18px;
+    color: black;
+}
+
+.copyright_footer{
+    position:fixed ;
+bottom: 0;
+background-color: rgb(155, 155, 155);
+width:100%;
+text-align: center;
+line-height: 1.5;
+font-family: cursive;
+font-weight: bold;
+color: black;
+}
+Canvas{
+    border:2px solid black;
+
+}
